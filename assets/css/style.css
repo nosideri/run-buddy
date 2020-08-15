@@ -287,6 +287,18 @@ section {
     font-size: 17px;
 }
 
+/* GRID BOX */
+.service-grid-container {
+    display: grid;
+}
+
+.service-grid-item {
+    width: 200px;
+    height: 50px;
+    background-color: orange;
+    border: solid;
+    color: black;
+}
 /* reach out style start */
 .contact {
     background: #024e76;
